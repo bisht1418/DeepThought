@@ -356,9 +356,42 @@ letter-spacing: 0.02em
 
 }
 
+.card-four-bottom{
+    width: 480px;
+    height: 428px;
+    top: 1186px;
+    left: 745px;
+    border-radius: 0px 0px 15px 15px;
+    border: 1px;
+    font-family: OpenSans;
+}
 
-.main-body-card-fout{}
+.card-four-bottom-top{
+   padding: 1.5rem;
+
+}
+
+.card-four-bottom-bottom{
+    padding: 1.5rem;
+  
+}
 
 
+.card-four-bottom-top-bottom{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    align-items: center;
+    background: #F2F2F2;
 
+}
 
+.card-four-bottom-top-bottom-see-more{
+    text-align: right;
+ 
+}
+
+.card-four-bottom-top-bottom-see-more:hover{
+    cursor: pointer;
+    color: #383838;
+}

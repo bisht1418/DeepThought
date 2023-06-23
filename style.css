@@ -303,17 +303,59 @@ letter-spacing: 0.02em
     outline: none;
 }
 
+.card-three-bottom{
+    border: 1px solid #333333;
+    
+    width: 479px;
+    height: 399px;
+    border-radius: 0px 0px 15px 15px;
+    border: 1px;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin: auto;
+}
 
+.card-three-bottom-top{
+    padding: 10px;
+    font-size: 1.5rem;
+    margin-left: 30px;
+    margin-top: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
 
+.card-three-bottom-top input{
+    padding: 10px;
+    border-radius: 10px;
+    border: blue;
+    width: 80%;
+    margin-top: 5px;
 
-
-.card-two-bottom-bottom{
 
 }
 
-.main-body-card-two{}
+.card-three-bottom-bottom{
+   margin-left: 3rem;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   padding: 10px;
+   margin-bottom: 10px;
+}
 
-.main-body-card-three{}
+.card-three-bottom-bottom div label{
+   font-size: 1.5rem;
+   margin-bottom: 10px;
+}
+
+.card-three-bottom-bottom-span{
+    display: flex;
+    gap: 1rem;
+    text-align: center;
+    align-items: center;
+    background: #EBEBEB;
+    padding: 2px;
+
+}
+
 
 .main-body-card-fout{}
 

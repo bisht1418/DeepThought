@@ -231,6 +231,85 @@ letter-spacing: 0.02em
 }
 
 
+.card-two-bottom-top{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    text-align: center;
+    align-items: center;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    linear-gradient(0deg, rgba(254, 255, 192, 0.2), rgba(254, 255, 192, 0.2));
+    margin-bottom: 10px;
+
+   
+}
+.card-two-bottom-top div{
+ margin-left: 10px;
+}
+
+.card-two-bottom-middle{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card-two-bottom-middle-div{
+    width: 199px;
+    height: 95px;
+    top: 604px;
+    left: 773px;
+    border-radius: 10px;
+    border: 0.1px solid #333333;
+    padding: 10px;
+  
+}
+
+.card-two-bottom-bottom{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+
+    
+}
+.card-two-bottom-bottom div{
+   margin-left: 2rem;
+
+}
+.card-two-bottom-bottom button{
+
+   background: #0029FF;
+   padding : 3px;
+   border-radius: 10px;
+   border: none;
+   color: white;
+   font-family: Arial;
+   font-weight: 500;
+   padding: 10px 10px;
+   margin-top: 2rem;
+}
+
+.card-two-bottom-bottom button:hover{
+   background: #001dab;
+   cursor: pointer;
+}
+
+
+.card-two-bottom-bottom textarea{
+    width: 85%;
+    margin: auto;
+    border: 1px solid blue;
+    padding: 10px;
+    outline: none;
+}
+
+
+
+
+
+.card-two-bottom-bottom{
+
+}
 
 .main-body-card-two{}
 

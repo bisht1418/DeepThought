@@ -363,7 +363,7 @@ letter-spacing: 0.02em
     left: 745px;
     border-radius: 0px 0px 15px 15px;
     border: 1px;
-    font-family: OpenSans;
+    font-family: arial;
 }
 
 .card-four-bottom-top{
@@ -395,3 +395,9 @@ letter-spacing: 0.02em
     cursor: pointer;
     color: #383838;
 }
+
+
+/* .card-four-bottom-bottom-example{
+  width: 80%;
+  margin-left: 20%;
+} */
